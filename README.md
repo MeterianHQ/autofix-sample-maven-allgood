@@ -1,0 +1,1 @@
+# autofix-sample-maven-allgood
